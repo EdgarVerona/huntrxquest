@@ -1,0 +1,1 @@
+Simply print these as large as you want them to be at the table.  I printed them as 9" x 6" sheets and then affixed them to cardboard and laminated it so that we could use wet erase markers to mark upgrades, but that was just my personal choice.
