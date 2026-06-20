@@ -16,8 +16,6 @@ Huntr/x Quest is a Hero Quest mod that provides:
 
 The files in this project contain the assets and documents needed to play or modify Huntr/x Quest.
 
-## 
-
 ## What do I need to play?
 
 - A physical copy of Hero Quest - either the original 1989/1990 printing, or the 2020+ reprint.
@@ -77,7 +75,7 @@ Here's more details about what specifically is in each file and folder:
 
   * **huntrx-monster-chart.pdf** \- A summary of the stats for each non-boss monster in the game.  Gwi-Ma should print this out and keep it for their reference, but don’t show it to players.
 
-  * **FOLDER: board-overlays** \-   
+  * **FOLDER: board-overlays** 
     * **FOLDER: dungeondraft-source-maps** \- Useful if you want to modify any of these overlays.  
     * **1989/1990** \- Open/Print these if you have the original version of the board, which has \~22.5mm wide squares.  
       * **FOLDER: a4-print-ready / letter-print-ready** \- Easiest way to print and play the board overlays.  Read the readme file inside for more info.  
@@ -97,7 +95,7 @@ Here's more details about what specifically is in each file and folder:
 * **FOLDER: ability-cards**
   * Print all of these png files to print out the ability cards.  You can also choose to print every possible copy of an ability card in advance, or wait until someone actually chooses to have multiple of a given ability before printing them.
 
-* **FOLDER: \art**  
+* **FOLDER: art**  
   * If you want to use penpot.app to make your own cards or modify the ones here, you can import these files.  Or if you want the jank logo I slapped together from the Hero Quest box art combined with the K-Pop movie art for some reason.
   
 ## Acknowledgements
