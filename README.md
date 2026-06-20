@@ -52,7 +52,7 @@ The files in this project contain the assets and documents needed to play or mod
 
 - A physical copy of Hero Quest - either the original 1989/1990 printing, or the 2020+ reprint.
 
-- The printouts suggested below.
+- The printouts suggested below. (The easiest way to get them is to download [The Latest Release .zip file](https://github.com/EdgarVerona/huntrxquest/releases/tag/v0.1.0-alpha) and then follow the instructions in the [What should I print?](#what-should-i-print) section below)
 
 - A party of 3 people to play as Huntr/x, or fewer people willing to play multiple characters.
 
@@ -62,7 +62,7 @@ The files in this project contain the assets and documents needed to play or mod
 
 ## What should I print?
 
-If you just want to skip to printing what you need in order to play, print the following.
+If you just want to skip to printing what you need in order to play, print the following once you grab [The Latest Release .zip file](https://github.com/EdgarVerona/huntrxquest/releases/tag/v0.1.0-alpha).
 
 Print the following.  The players can read these or you can give them copies as they desire.
 
