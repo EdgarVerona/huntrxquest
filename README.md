@@ -1,4 +1,4 @@
-# Huntr/x Quest README
+# Huntr/x Quest: A HeroQuest Conversion
 
 ![I wish you could see this jank-ass logo](https://github.com/EdgarVerona/huntrxquest/blob/main/_art/huntrx-quest-logo.jpg)
 
