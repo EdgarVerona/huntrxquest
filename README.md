@@ -11,17 +11,21 @@ Version 0.1, still undergoing testing but should be in an "alpha playable" state
 Huntr/x Quest is a Hero Quest mod that provides:
 
 - 3 new Hero characters, styled to the heroes of the K-Pop Demon Hunters movie.
-  - ![Character Card example](https://github.com/EdgarVerona/huntrxquest/blob/main/_art/character-card-example-screenshot.png)
+  ![Character Card example](https://github.com/EdgarVerona/huntrxquest/blob/main/_art/character-card-example-screenshot.png)
   *An example of one of the character cards, with a bunch of upgrade slots*
-  - ![Ability Card example](https://github.com/EdgarVerona/huntrxquest/blob/main/_art/ability-card-example-screenshot.png)
+  
+  ![Ability Card example](https://github.com/EdgarVerona/huntrxquest/blob/main/_art/ability-card-example-screenshot.png)
   *Here's an example of one of the new upgradable ability cards*
-  - ![Me going way too far with this](https://github.com/EdgarVerona/huntrxquest/blob/main/_art/card-examples.png)
+  
+  ![Me going way too far with this](https://github.com/EdgarVerona/huntrxquest/blob/main/_art/card-examples.png)
   *Here's an example of a psychopath (me!) making prototype cards with cardboard and laminate*
+
 - A new system for character growth through upgrades and abilities rather than items.
 - Many new required/optional changes, both to fit the theme and to streamline gameplay.
 - An 11 Quest campaign that takes the girls through their first world-saving mission, shortly after forming Huntr/x.
-  - ![Quest Example](https://github.com/EdgarVerona/huntrxquest/blob/main/_art/quest-example-screenshot.png)
+  ![Quest Example](https://github.com/EdgarVerona/huntrxquest/blob/main/_art/quest-example-screenshot.png)
   *Whoa, check out that overlay in the quest!  What is it?  You'll find out!*
+  
 - Lots of fun surprises, with maybe too many board overlays to allow for said surprises.
 
 The files in this project contain the assets and documents needed to play or modify Huntr/x Quest.
