@@ -1,5 +1,7 @@
 # Huntr/x Quest README
 
+![I wish you could see this jank-ass logo](https://github.com/EdgarVerona/huntrxquest/blob/main/_art/huntrx-quest-logo.jpg)
+
 *The unauthorized. unasked-for, and quite frankly ludicrous K-Pop Demon Hunters x Hero Quest conversion*
 
 Version 0.1, still undergoing testing but should be in an "alpha playable" state.  I welcome any playtesting you'd be willing to undertake with your girl squad!
