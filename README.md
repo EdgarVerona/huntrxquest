@@ -6,6 +6,16 @@
 
 Version 0.1, still undergoing testing but should be in an "alpha playable" state.  I welcome any playtesting you'd be willing to undertake with your girl squad!
 
+## Table of Contents
+
+- [What IS this?](#what-is-this)
+- [What do I need to play?](#what-do-i-need-to-play)
+- [What should I print?](#what-should-i-print)
+- [Files and Folders](#files-and-folders)
+- [Acknowledgements](#acknowledgements)
+
+---
+
 ## What IS this?
 
 Huntr/x Quest is a Hero Quest mod that provides:
@@ -36,6 +46,8 @@ Huntr/x Quest is a Hero Quest mod that provides:
 
 The files in this project contain the assets and documents needed to play or modify Huntr/x Quest.
 
+[(Back to Top)](#huntrx-quest-a-heroquest-conversion)
+
 ## What do I need to play?
 
 - A physical copy of Hero Quest - either the original 1989/1990 printing, or the 2020+ reprint.
@@ -46,7 +58,9 @@ The files in this project contain the assets and documents needed to play or mod
 
 - A person willing to play the role of Gwi-Ma (Zargon in HeroQuest terminology, or the "Dungeon Master" if you're into D&D).
 
-## What should I print to play?
+[(Back to Top)](#huntrx-quest-a-heroquest-conversion)
+
+## What should I print?
 
 If you just want to skip to printing what you need in order to play, print the following.
 
@@ -75,6 +89,8 @@ Print these ones and keep them hidden from players:
 * The entire contents of the **“gwi-ma-resources \-\> board_overlays \-\> YEAR\_FOR\_YOUR\_BOARD \-\> a4\_print\_ready or letter\_print\_ready” folder** (read the included \_README file in the board_overlays folder for more info on how to print them to the right size) The year to pick or whether to pick a4/letter depends on the year your board was made (1989/1990 have different sized squares vs 2020\) as well as the size paper you want to print on.
 
 * All of the PDF files in the **“gwi-ma-resources \-\> quests” folder**
+
+[(Back to Top)](#huntrx-quest-a-heroquest-conversion)
 
 ## Files and Folders
 
@@ -118,6 +134,8 @@ Here's more details about what specifically is in each file and folder:
 * **FOLDER: art**  
   * If you want to use penpot.app to make your own cards or modify the ones here, you can import these files.  Or if you want the jank logo I slapped together from the Hero Quest box art combined with the K-Pop movie art for some reason.
   
+[(Back to Top)](#huntrx-quest-a-heroquest-conversion)
+
 ## Acknowledgements
 
 - All K-Pop Demon Hunter art was shamelessly taken from the movie, either directly or by taking pictures that other people took.  So don't be a turd and try to repackage this for sale or something, you're going to get us all in trouble.  Be cool, okay?  Let's all be little Fonzies here.
@@ -131,3 +149,5 @@ Here's more details about what specifically is in each file and folder:
   - GF Cyberpunk City Streets (free) by Gnome Factory
   - PeaPu\_City\_Modern\_1\_Free by PeaPu
   - PeaPu\_City\_Post\_Apocalypse\_01\_Wasteland\_Ruins\_Free by PeaPu
+
+[(Back to Top)](#huntrx-quest-a-heroquest-conversion)
